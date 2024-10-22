@@ -1,4 +1,16 @@
-﻿#include <windows.h>
+/*
+    Nome do arquivo: main.c
+    Autores: João Victor, Pedro Guaita, Pedro Henrique e Matheus Cavalheiro.
+    Disciplina: Sistemas Operacional.
+    Descrição: O programa cria diretórios, manipula arquivos com conteúdo fornecido pelo usuário, e combina esses conteúdos em um arquivo final.
+    Data de criação: 09/10/2024
+    Última atualização: 11/10/2024
+
+    O programa permite criar múltiplos arquivos, adicionar conteúdo a eles, 
+    e combinar esse conteúdo em um único arquivo, utilizando threads e 
+    operações de criação e leitura de arquivos no Windows.
+*/
+#include <windows.h>
 #include <stdio.h>
 #include <string.h>
 
