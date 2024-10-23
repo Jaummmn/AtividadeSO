@@ -29,3 +29,7 @@ O programa principal oferece um menu para que o usuário possa:
 1. Compile o código no Visual Studio ou em qualquer outro ambiente de desenvolvimento C compatível com o Windows.
 2. Execute o programa, e um menu será exibido.
 3. Escolha uma das opções para criar e manipular arquivos ou listar os arquivos já existentes no diretório.
+
+## Vídeo Demonstrativo
+
+Assista ao vídeo do programa funcionando: [Programa em funcionamento](https://youtu.be/QCv8Q4O_D5A)
